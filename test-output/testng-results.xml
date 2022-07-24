@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="115629" started-at="2022-07-24T17:54:48 IST" finished-at="2022-07-24T17:56:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="115629" started-at="2022-07-24T17:54:48 IST" finished-at="2022-07-24T17:56:44 IST">
+      <class name="org.testcases.Imdbtestcases">
+        <test-method status="PASS" signature="openBrowserImdb()[pri:0, instance:org.testcases.Imdbtestcases@365185bd]" name="openBrowserImdb" is-config="true" duration-ms="52185" started-at="2022-07-24T17:54:48 IST" finished-at="2022-07-24T17:55:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserImdb -->
+        <test-method status="PASS" signature="openPushpaPageDetails()[pri:0, instance:org.testcases.Imdbtestcases@365185bd]" name="openPushpaPageDetails" duration-ms="4644" started-at="2022-07-24T17:55:41 IST" finished-at="2022-07-24T17:55:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPushpaPageDetails -->
+      </class> <!-- org.testcases.Imdbtestcases -->
+      <class name="org.testcases.Wikitestcase">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.testcases.Wikitestcase@5579bb86]" name="openBrowser" is-config="true" duration-ms="57615" started-at="2022-07-24T17:55:45 IST" finished-at="2022-07-24T17:56:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="OpenPushpaPageDetails()[pri:0, instance:org.testcases.Wikitestcase@5579bb86]" name="OpenPushpaPageDetails" duration-ms="1033" started-at="2022-07-24T17:56:43 IST" finished-at="2022-07-24T17:56:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPushpaPageDetails -->
+      </class> <!-- org.testcases.Wikitestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
